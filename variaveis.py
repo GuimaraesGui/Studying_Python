@@ -2,9 +2,11 @@
 
 # 1. Variáveis
 
-idade = 22 # Criando uma variável
+# Declarando uma variável
+idade = 22
 
-print(idade) # Imprimindo uma variável
+# Imprimindo uma variável
+print(idade)
 
 nome = 'Guilherme Guimarães'
 
@@ -29,7 +31,7 @@ print(type(altura))
 print(type(nome))
 print(type(estudando))
 
-# Obtendo dados do usuário e salvando em variáveis
+# Lendo valores e atribuindo a variáveis
 
 linguagem = input("Qual é a linguagem de programação que você está estudando? ")
 
