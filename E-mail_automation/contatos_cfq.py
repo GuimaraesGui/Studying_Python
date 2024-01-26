@@ -1,5 +1,5 @@
 #Enviar somente CFQ
-contatos_Postos_gnv = ['claudiomanuel900@gmail.com','itu@postos7.com.br','ocruz@sinergas.com.br','juliobertolai@hotmail.com','tatiana.ponsoni@gpabr.com',
+contatos_Postos_gnv = ['claudiomanuel900@gmail.com';'itu@postos7.com.br','ocruz@sinergas.com.br','juliobertolai@hotmail.com','tatiana.ponsoni@gpabr.com',
               'apvalinho@redecomendador.com.br','postocompanheiro@uol.com.br','kimdog@uol.com.br','mlucca@combustiveisblue.com.br','fernandafantinato@gmail.com',
               'suportefantinato@globo.com','postobelavista@costaebarros.com.br','postosanfrancisco@gmail.com','renan_bonetto@yahoo.com.br','elsantos@naturgy.com',
               'dcanossa@aspro.com.br','rsoro@ipem.sp.gov.br','jhfazano@terra.com.br','autopostoipanema@terra.com.br','a4posto@gmail.com','renan_bonetto@yahoo.com.br',
@@ -30,4 +30,5 @@ contatos_Sanovo = ['adriano.canton@sanovo.com.br']
 contatos_symrise = ['gabriel.camargo@symrise.com', 'marcelo.campos@symrise.com', 'jean.silvestre@symrise.com', 'Arthur.Arruda@symrise.com']
 
 contatos_toyota = ['rsimonelli@toyota.com.br']
-                   
+
+print(contatos_CBA_Metalex)                   
